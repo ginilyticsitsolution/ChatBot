@@ -1,0 +1,24 @@
+{
+    "tags": [
+        {
+			"tag": "select",
+            "cf-input-placeholder": "Ask for more details...",
+			"size": "3",
+			"cf-questions": "Great! Would you like to see sunscreen or moisturizer?",
+			"children":[
+				{
+					"tag": "option",
+					"name": "skin-pro-opts",
+					"cf-label": "sunscreen",
+					"value": ""
+				},
+                {
+                    "tag": "option",
+                    "name": "skin-pro-opts",
+                    "cf-label": "moisturizer",
+                    "value": " "
+                }
+			]
+		}
+    ]
+}

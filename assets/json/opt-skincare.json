@@ -1,0 +1,31 @@
+{
+"tags": [
+        {
+			"tag": "select",
+			"cf-input-placeholder": "Ask away",
+			"size": "4",
+			"cf-questions": "certainly! can you please tell me your skin type",
+			"children":[
+				{
+					"tag": "option",
+					"name": "skin_opts",
+					"cf-label": "Oily",
+					"value": "opt-oily"
+				},
+				{
+					"tag": "option",
+					"name": "skin_opts",
+					"cf-label": "Dry",
+					"value": "opt-dry"
+				},
+				{
+					"tag": "option",
+					"name": "skin_opts",
+					"cf-label": "combination",
+					"value": "opt-combination"
+				}
+				
+			]
+		}
+    ]
+}

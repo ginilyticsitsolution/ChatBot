@@ -1,0 +1,13 @@
+{
+  "name": "ECommerceChatBot",
+  "version": "1.0.0",
+  "description": "Conversation portfolio web app",
+  "main": "app.js",
+  "repository": "",
+  "author": "",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
