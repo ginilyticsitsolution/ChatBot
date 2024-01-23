@@ -1,0 +1,36 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Ask away",
+                "size": "4",
+                "cf-questions": "certainly! can you please tell me you are looking for",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "product-cat-opt-women",
+                        "cf-label": "Winter",
+                        "value": "opt-winter-women"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "product-cat-opt-women",
+                        "cf-label": "Summer",
+                        "value": "opt-summer-women"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "product-cat-opt-women",
+                        "cf-label": "Both",
+                        "value": ""
+                    },
+                    {
+                        "tag": "option",
+                        "name": "product-cat-opt",
+                        "cf-label": "Go back",
+                        "value": "opt-gender"
+                    }
+                ]
+            }
+        ]
+    }

@@ -1,7 +1,7 @@
 {
   "name": "ECommerceChatBot",
   "version": "1.0.0",
-  "description": "Conversation portfolio web app",
+  "description": "Conversation chatbot web app",
   "main": "app.js",
   "repository": "",
   "author": "",

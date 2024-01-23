@@ -7,41 +7,33 @@
 	},
 	"tags": [
 		{
-			"tag": "input",
-			"type": "text",
-			"id": "intro-name",
-			"cf-input-placeholder": "Your name",
-			"cf-questions": "Hey there!&& I am E-Commerce Chat Bot .&&What's your name?"
-		},
-
-		{
 			"tag": "select",
 			"cf-input-placeholder": "Ask away",
 			"size": "4",
-			"cf-questions": "Nice to meet you, {previous-answer}!&&I'm currently trapped in this website!&&Feel free to ask me something...",
+			"cf-questions": "Hi! How can I assist you today?",
 			"children":[
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "show me skin care products for my dubai trip",
-					"value": "opt-skincare"
+					"cf-label": "Find Products",
+					"value": "opt-Product-category"
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "show something treding college outfit",
+					"cf-label": "Track Products",
 					"value": ""
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "suggest some look for Goa trip ",
+					"cf-label": "Trending Products",
 					"value": ""
 				},
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "show me wall decoration for festival",
+					"cf-label": "Purchase Orders",
 					"value": ""
 				}
 			]

@@ -1,0 +1,36 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Ask away",
+                "size": "4",
+                "cf-questions": "certainly! can you please tell me you are looking for",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "gender-cat-opt",
+                        "cf-label": "Men",
+                        "value": "opt-clothes-category-men"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "gender-cat-opt",
+                        "cf-label": "women",
+                        "value": "opt-clothes-category-women"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "gender-cat-opt",
+                        "cf-label": "Both",
+                        "value": ""
+                    },
+                    {
+                        "tag": "option",
+                        "name": "clothes_cat-opt",
+                        "cf-label": "Go back",
+                        "value": "opt-Product-category"
+                    }
+                ]
+            }
+        ]
+    }

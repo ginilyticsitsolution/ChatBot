@@ -1,0 +1,34 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Ask away",
+                "size": "4",
+                "cf-questions": "Great choice! Here are some summer products for men:",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "summer-product-cat-opt-men",
+                        "cf-label": "Product 1",
+                        "cf-image": "/assets/img/product2.jpg",
+                       "cf-link": "https://example.com/product1"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "summer-product-cat-opt-men",
+                        "cf-label": "Product 2",
+                        "cf-image": "/assets/img/product2.jpg",
+                        "cf-link": "https://example.com/product1"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "summer-product-cat-opt-men",
+                        "cf-label": "Product 3",
+                        "cf-image": "/assets/img/product2.jpg",
+                        "cf-link": "https://example.com/product1"
+                    }
+                   
+                ]
+            }
+        ]
+    }
