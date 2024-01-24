@@ -24,10 +24,21 @@
                         "tag": "option",
                         "name": "summer-product-cat-opt-women",
                         "cf-image": "/assets/img/product2.jpg",
-                        "cf-label": "Product 3",
-                        "cf-link": "https://example.com/product1"
+                        "cf-label": "Product 3"
                         
-                    }
+                    },
+                    {
+                        "tag":"option",
+                        "name":"summer-product-cat-opt-women",
+                        "cf-label":"Go back",
+                        "value":"opt-clothes-category-women"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "electronics-cat-opts",
+                        "cf-label": "Good Bye!",
+                        "value": "opt-end"
+                      }
                    
                 ]
             }

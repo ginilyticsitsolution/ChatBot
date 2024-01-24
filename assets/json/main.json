@@ -9,33 +9,16 @@
 		{
 			"tag": "select",
 			"cf-input-placeholder": "Ask away",
-			"size": "4",
-			"cf-questions": "Hi! How can I assist you today?",
+			"size": "1",
+			"cf-questions": "Hi!",
 			"children":[
 				{
 					"tag": "option",
 					"name": "main-opts",
-					"cf-label": "Find Products",
-					"value": "opt-Product-category"
-				},
-				{
-					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Track Products",
-					"value": ""
-				},
-				{
-					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Trending Products",
-					"value": ""
-				},
-				{
-					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Purchase Orders",
-					"value": ""
+					"cf-label": "Hi",
+					"value": "opt-start"
 				}
+				
 			]
 		}
 	]
