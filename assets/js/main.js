@@ -22,6 +22,10 @@ function startConversation(json) {
 // Form was submitted/finished
 let onFormlessSubmitted = () => {
     convo.addRobotChatResponse("Thanks for chatting!")
+    
+    setTimeout(function(){
+        window.location.reload();
+     }, 5000);
 }
 
 let onStepCallback = function (dto, success, error) {

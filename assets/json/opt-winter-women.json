@@ -29,10 +29,16 @@
                     },
                     {
                         "tag": "option",
-                        "name": "product-cat-opt",
+                        "name": "winter-product-cat-opt-women",
                         "cf-label": "Go back",
                         "value": "opt-clothes-category-women"
-                    }
+                    },
+                    {
+                        "tag": "option",
+                        "name": "winter-product-cat-opt-women",
+                        "cf-label": "Good Bye!",
+                        "value": "opt-end"
+                      }
                 ]
             }
         ]

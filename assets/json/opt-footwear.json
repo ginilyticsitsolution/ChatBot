@@ -1,0 +1,61 @@
+{
+    "tags": [
+      {
+        "tag": "select",
+        "cf-input-placeholder": "Ask away",
+        "size": "4",
+        "cf-questions": "Certainly! Can you please tell me the footwear subcategory?",
+        "children": [
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Sneakers",
+            "value": "opt-sneakers"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Boots",
+            "value": "opt-boots"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Sandals",
+            "value": "opt-sandals"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Formal Shoes",
+            "value": "opt-formal"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Athletic Shoes",
+            "value": "opt-athletic"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Slippers",
+            "value": "opt-slippers"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Go back",
+            "value": "opt-Product-category"
+          },
+          {
+            "tag": "option",
+            "name": "footwear-cat-opts",
+            "cf-label": "Good Bye!",
+            "value": "opt-end"
+          }
+        ]
+      }
+    ]
+  }
+  

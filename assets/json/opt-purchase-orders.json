@@ -1,0 +1,44 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Ask away",
+                "size": "1",
+                "cf-questions": "Please one from below options   ?",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "purchase-order-opts",
+                        "cf-label": "Last month purchase order",
+                        "value": ""
+                    },
+                    {
+                        "tag": "option",
+                        "name": "purchase-order-opts",
+                        "cf-label": "Previous Year purchase order",
+                        "value": ""
+                    },
+                    {
+                        "tag": "option",
+                        "name": "purchase-order-opts",
+                        "cf-label": "Current year purchase order",
+                        "value": ""
+                    },
+                    {
+                        "tag": "option",
+                        "name": "purchase-order-opts",
+                        "cf-label": "Other",
+                        "value": ""
+                    },
+                    {
+                        "tag": "option",
+                        "name": "purchase-order-opts",
+                        "cf-label": "Go back",
+                        "value": "opt-start"
+                    }
+                    
+                   
+                ]
+            }
+        ]
+    }

@@ -16,19 +16,19 @@
 					"tag": "option",
 					"name": "product-cat-opts",
 					"cf-label": "Electronics",
-					"value": ""
+					"value": "opt-electronics"
 				},
 				{
 					"tag": "option",
 					"name": "product-cat-opts",
 					"cf-label": "Footwear",
-					"value": ""
+					"value": "opt-footwear"
 				},
 				{
 					"tag": "option",
 					"name": "product-cat-opts",
 					"cf-label": "Go back",
-					"value": "main"
+					"value": "opt-start"
 				}
 			]
 		}
