@@ -1,51 +1,23 @@
 {
     "tags": [
             {
-                "tag": "select",
-                "cf-input-placeholder": "Ask away",
-                "size": "4",
+                "tag":"select",
                 "cf-questions": "Great choice! Here are some winter products for men:",
                 "children":[
                     {
                         "tag": "option",
-                        "name": "winter-product-cat-opt-men",
+                        "name": "winter-opt-men",
                         "cf-label": "Product 1",
-                        "cf-image": "/assets/img/product1.jpg",
-                        "value": "https://example.com/product1"
-                    },
-                    {
+                        "cf-image": "https://i.ibb.co/qxhkc5K/user-icon.png",
+                        "value": "Product1"
+                    },  {
                         "tag": "option",
-                        "name": "winter-product-cat-opt-men",
-                        "cf-label": "Product 2",
-                        "cf-image": "/assets/img/product1.jpg",
+                        "name": "winter-opt-men2",
+                        "cf-label": "Product 1",
+                        "cf-image": "https://i.ibb.co/qxhkc5K/user-icon.png",
                         "value": "https://example.com/product1"
-                    },
-                    {
-                        "tag": "option",
-                        "name": "winter-product-cat-opt-men",
-                        "cf-label": "Product 3",
-                        "cf-image": "/assets/img/product1.jpg",
-                        "value": "https://example.com/product1"
-                    },
-                    {
-                        "tag": "option",
-                        "name": "winter-product-cat-opt-men",
-                        "cf-label": "Product 4",
-                        "cf-image": "/assets/img/product1.jpg",
-                        "value": "https://example.com/product1"
-                    },
-                    {
-                        "tag":"option",
-                        "name":"winter-product-cat-opt-men",
-                        "cf-label":"Go Back",
-                        "value":"opt-clothes-category-men"
-                    },
-                    {
-                        "tag": "option",
-                        "name": "winter-product-cat-opt-men",
-                        "cf-label": "Good Bye!",
-                        "value": "opt-end"
-                      }
+                    }
+
                 ]
             }
         ]

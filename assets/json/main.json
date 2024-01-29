@@ -3,7 +3,8 @@
 		"preventAutoAppend": true,
 		"preventAutoFocus": true,
 		"robotImage": "assets/img/me.png",
-		"userImage": "assets/img/user.png"
+		"userImage": "assets/img/user.png",
+		"submitCallBack":"SubmitCallBack"
 	},
 	"tags": [
 		{

@@ -62,6 +62,8 @@ function loadBranch(branch, callback) {
 
 // Loads JSON chat file
 function loadJSON(name, callback) {
+
+
     let xhr = new XMLHttpRequest()
     xhr.overrideMimeType('application/json')
     xhr.onload = () => {
@@ -71,7 +73,10 @@ function loadJSON(name, callback) {
         callback(false)
     }
 
+if(name.match(/opt|main/g)&&name.match(/opt|main/g).length>0){
     xhr.open("GET", "assets/json/" + name + ".json")
+}else 
+    xhr.open("GET", window.location.origin+'/'+name )
     xhr.send(null)
 }
 
