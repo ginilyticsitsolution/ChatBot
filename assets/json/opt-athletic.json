@@ -1,0 +1,48 @@
+{
+    "tags": [
+            {
+                "tag":"select",
+                "cf-questions": "Great choice! Here are some Trending Athletic shoes :",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "Athletic-opt",
+                        "cf-label": "Product 1",
+                        "cf-image": "/assets/img/Athletic/Athletic-1.jpg",
+                        "value": "Product"
+                    },  {
+                        "tag": "option",
+                        "name": "Athletic-opt",
+                        "cf-label": "Product 2",
+                        "cf-image": "/assets/img/Athletic/Athletic-2.jpg",
+                        "value": "Product"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "Athletic-opt",
+                        "cf-label": "Product 3",
+                        "cf-image": "/assets/img/Athletic/Athletic-3.jpg",
+                        "value": "Product"
+                    },  {
+                        "tag": "option",
+                        "name": "Athletic-opt",
+                        "cf-label": "Product 4",
+                        "cf-image": "/assets/img/Athletic/Athletic-4.jpg",
+                        "value": "Product"
+                    },{
+                        "tag": "option",
+                        "name": "Athletic-opt",
+                        "cf-label": "Go back",
+                        "value": "opt-footwear"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "Athletic-opt",
+                        "cf-label": "Good bye",
+                        "value": "opt-end"
+                    }
+
+                ]
+            }
+        ]
+    }

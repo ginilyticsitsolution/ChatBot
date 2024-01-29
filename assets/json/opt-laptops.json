@@ -1,0 +1,54 @@
+{
+    "tags": [
+            {
+                "tag": "select",
+                "cf-input-placeholder": "Ask away",
+                "size": "4",
+                "cf-questions": "Great choice! Here are some best Laptops :",
+                "children":[
+                    {
+                        "tag": "option",
+                        "name": "laptop-opt",
+                        "cf-label": "Product 1",
+                        "cf-image": "/assets/img/laptop/laptop-1.jpg",
+                       "value": "Product"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "laptop-opt",
+                        "cf-label": "Product 2",
+                        "cf-image": "/assets/img/laptop/laptop-2.jpg",
+                        "value": "Product"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "laptop-opt",
+                        "cf-label": "Product 3",
+                        "cf-image": "/assets/img/laptop/laptop-3.jpg",
+                        "value": "Product"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "laptop-opt",
+                        "cf-label": "Product 4",
+                        "cf-image": "/assets/img/laptop/laptop-4.jpg",
+                        "value": "Product"
+                    },
+                    {
+                        "tag": "option",
+                        "name": "laptop-opt",
+                        "cf-label": "Go back",
+                        "value":"opt-electronics"
+                     
+                    },
+                    {
+                        "tag": "option",
+                        "name": "laptop-opt",
+                        "cf-label": "Good Bye!",
+                        "value": "opt-end"
+                      }
+                   
+                ]
+            }
+        ]
+    }

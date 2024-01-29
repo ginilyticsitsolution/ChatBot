@@ -18,24 +18,14 @@
             "cf-label": "Laptops",
             "value": "opt-laptops"
           },
-          {
-            "tag": "option",
-            "name": "electronics-cat-opts",
-            "cf-label": "Audio Accessories",
-            "value": "opt-audio"
-          },
+          
           {
             "tag": "option",
             "name": "electronics-cat-opts",
             "cf-label": "Cameras",
             "value": "opt-cameras"
           },
-          {
-            "tag": "option",
-            "name": "electronics-cat-opts",
-            "cf-label": "Wearables",
-            "value": "opt-wearables"
-          },
+          
           {
             "tag": "option",
             "name": "electronics-cat-opts",
