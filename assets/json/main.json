@@ -2,8 +2,8 @@
 	"options": {
 		"preventAutoAppend": true,
 		"preventAutoFocus": true,
-		"robotImage": "assets/img/me.png",
-		"userImage": "assets/img/user.png",
+		"robotImage": "/assets/img/ChatIcons/me.png",
+		"userImage": "/assets/img/ChatIcons/user.png",
 		"submitCallBack":"SubmitCallBack"
 	},
 	"tags": [
