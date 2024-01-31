@@ -28,7 +28,7 @@
 					"tag": "option",
 					"name": "product-cat-opts",
 					"cf-label": "Go back",
-					"value": "opt-start"
+					"value": "main"
 				}
 			]
 		}

@@ -4,7 +4,7 @@
                 "tag": "select",
                 "cf-input-placeholder": "Ask away",
                 "size": "1",
-                "cf-questions": "Please one from below options   ?",
+                "cf-questions": "Please select one from below options   ?",
                 "children":[
                     {
                         "tag": "option",
@@ -34,7 +34,7 @@
                         "tag": "option",
                         "name": "purchase-order-opts",
                         "cf-label": "Go back",
-                        "value": "opt-start"
+                        "value": "main"
                     }
                     
                    

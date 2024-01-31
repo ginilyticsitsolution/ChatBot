@@ -7,20 +7,37 @@
 		"submitCallBack":"SubmitCallBack"
 	},
 	"tags": [
-		{
-			"tag": "select",
-			"cf-input-placeholder": "Ask away",
-			"size": "1",
-			"cf-questions": "Hi!",
-			"children":[
-				{
-					"tag": "option",
-					"name": "main-opts",
-					"cf-label": "Hi",
-					"value": "opt-start"
-				}
-				
-			]
-		}
-	]
+        {
+            "tag": "select",
+            "cf-input-placeholder": "Ask away",
+            "size": "4",
+            "cf-questions": "Hii! How can I assist you today?",
+            "children": [
+                {
+                    "tag": "option",
+                    "name": "main-opts",
+                    "cf-label": "Find Products",
+                    "value": "opt-Product-category"
+                },
+                {
+                    "tag": "option",
+                    "name": "main-opts",
+                    "cf-label": "Track Orders",
+                    "value": "opt-track-products"
+                },
+                {
+                    "tag": "option",
+                    "name": "main-opts",
+                    "cf-label": "Trending Products",
+                    "value": "opt-trending-products"
+                },
+                {
+                    "tag": "option",
+                    "name": "main-opts",
+                    "cf-label": "Purchase Orders",
+                    "value": "opt-purchase-orders"
+                }
+            ]
+        }
+    ]
 }
